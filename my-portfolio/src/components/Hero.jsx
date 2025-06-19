@@ -1,5 +1,5 @@
 // src/components/Hero.jsx
-import photo from '../assets/pfp.jpg';
+import photo from '../assets/Pfp.jpg';
 import { AiOutlineMail } from 'react-icons/ai';
 import { FiPhone } from 'react-icons/fi';
 import { GoLocation } from 'react-icons/go';
